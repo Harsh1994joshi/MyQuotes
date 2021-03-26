@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Inspirational">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:text="Inspirational Quote "
+        android:textAllCaps="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:hint="Enter Quote"
+        android:textSize="25sp"
+        android:inputType="textMultiLine"
+        android:layout_gravity="center"
+        android:background="@drawable/edittext"
+        android:padding="20dp"
+        android:id="@+id/inspqut"
+        />
+    <EditText
+        android:id="@+id/inspauth"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:hint="Enter Authour name"
+        android:textSize="25sp"
+        android:inputType="text"
+        android:layout_gravity="center"
+        android:background="@drawable/edittext"
+        android:padding="20dp"
+        />
+    <Button
+        android:id="@+id/inspinsert"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:background="@drawable/button"
+        android:layout_marginTop="20dp"
+        android:text="Insert Quote"
+        android:backgroundTint="#ee8d8e"
+        android:layout_gravity="center"/>
+
+
+
+</LinearLayout>

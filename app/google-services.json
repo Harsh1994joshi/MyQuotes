@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "259414032903",
+    "firebase_url": "https://quotesadmin-ee65a-default-rtdb.firebaseio.com",
+    "project_id": "quotesadmin-ee65a",
+    "storage_bucket": "quotesadmin-ee65a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259414032903:android:a553877cd07e0f791220a2",
+        "android_client_info": {
+          "package_name": "com.example.myquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDopRO620Op6bmwEmpOvLW1M9yF0T4CGxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259414032903:android:01c4582bf8dad7491220a2",
+        "android_client_info": {
+          "package_name": "com.example.quotesadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDopRO620Op6bmwEmpOvLW1M9yF0T4CGxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259414032903:android:fd5fc5306e3218891220a2",
+        "android_client_info": {
+          "package_name": "com.example.quotesuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDopRO620Op6bmwEmpOvLW1M9yF0T4CGxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259414032903-u6ie5o98jtirfflue29qcq6seedh91h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
